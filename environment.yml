@@ -1,0 +1,10 @@
+name: schools_test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - plotly
