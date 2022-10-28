@@ -4,6 +4,4 @@ channels:
 dependencies:
   - matplotlib
   - seaborn
-  - numpy
   - pandas
-  - plotly
